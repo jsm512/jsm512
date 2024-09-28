@@ -5,7 +5,5 @@
 
 
 ## My Github Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2018112512&show_icons=true&theme=radical)
-<!—
-**jsm512/jsm512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsm512&show_icons=true&theme=radical)
 
